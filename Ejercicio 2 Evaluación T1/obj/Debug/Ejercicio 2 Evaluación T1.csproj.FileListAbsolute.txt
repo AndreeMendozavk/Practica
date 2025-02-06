@@ -1,0 +1,7 @@
+C:\Users\UPN\source\repos\Ejercicio 2 Evaluación T1\obj\Debug\Ejercicio 2 Evaluación T1.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Ejercicio 2 Evaluación T1\obj\Debug\Ejercicio 2 Evaluación T1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Ejercicio 2 Evaluación T1\bin\Debug\Ejercicio 2 Evaluación T1.exe.config
+C:\Users\UPN\source\repos\Ejercicio 2 Evaluación T1\bin\Debug\Ejercicio 2 Evaluación T1.exe
+C:\Users\UPN\source\repos\Ejercicio 2 Evaluación T1\bin\Debug\Ejercicio 2 Evaluación T1.pdb
+C:\Users\UPN\source\repos\Ejercicio 2 Evaluación T1\obj\Debug\Ejercicio 2 Evaluación T1.exe
+C:\Users\UPN\source\repos\Ejercicio 2 Evaluación T1\obj\Debug\Ejercicio 2 Evaluación T1.pdb
