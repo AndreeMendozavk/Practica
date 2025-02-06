@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\Ejercicio 1 practica\Ejercicio 1 practica\bin\Debug\Ejercicio 1 practica.exe.config
+C:\Users\Andre\source\repos\Ejercicio 1 practica\Ejercicio 1 practica\bin\Debug\Ejercicio 1 practica.exe
+C:\Users\Andre\source\repos\Ejercicio 1 practica\Ejercicio 1 practica\bin\Debug\Ejercicio 1 practica.pdb
+C:\Users\Andre\source\repos\Ejercicio 1 practica\Ejercicio 1 practica\obj\Debug\Ejercicio 1 practica.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Ejercicio 1 practica\Ejercicio 1 practica\obj\Debug\Ejercicio 1 practica.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Ejercicio 1 practica\Ejercicio 1 practica\obj\Debug\Ejercicio 1 practica.exe
+C:\Users\Andre\source\repos\Ejercicio 1 practica\Ejercicio 1 practica\obj\Debug\Ejercicio 1 practica.pdb

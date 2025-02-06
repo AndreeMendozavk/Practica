@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\Ejercicio 5 respuesta\Ejercicio 5 respuesta\obj\Debug\Ejercicio 5 respuesta.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Ejercicio 5 respuesta\Ejercicio 5 respuesta\obj\Debug\Ejercicio 5 respuesta.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Ejercicio 5 respuesta\Ejercicio 5 respuesta\bin\Debug\Ejercicio 5 respuesta.exe.config
+C:\Users\Andre\source\repos\Ejercicio 5 respuesta\Ejercicio 5 respuesta\bin\Debug\Ejercicio 5 respuesta.exe
+C:\Users\Andre\source\repos\Ejercicio 5 respuesta\Ejercicio 5 respuesta\bin\Debug\Ejercicio 5 respuesta.pdb
+C:\Users\Andre\source\repos\Ejercicio 5 respuesta\Ejercicio 5 respuesta\obj\Debug\Ejercicio 5 respuesta.exe
+C:\Users\Andre\source\repos\Ejercicio 5 respuesta\Ejercicio 5 respuesta\obj\Debug\Ejercicio 5 respuesta.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\Ejercicio 2 respuesta\Ejercicio 2 respuesta\bin\Debug\Ejercicio 2 respuesta.exe.config
+C:\Users\Andre\source\repos\Ejercicio 2 respuesta\Ejercicio 2 respuesta\bin\Debug\Ejercicio 2 respuesta.exe
+C:\Users\Andre\source\repos\Ejercicio 2 respuesta\Ejercicio 2 respuesta\bin\Debug\Ejercicio 2 respuesta.pdb
+C:\Users\Andre\source\repos\Ejercicio 2 respuesta\Ejercicio 2 respuesta\obj\Debug\Ejercicio 2 respuesta.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Ejercicio 2 respuesta\Ejercicio 2 respuesta\obj\Debug\Ejercicio 2 respuesta.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Ejercicio 2 respuesta\Ejercicio 2 respuesta\obj\Debug\Ejercicio 2 respuesta.exe
+C:\Users\Andre\source\repos\Ejercicio 2 respuesta\Ejercicio 2 respuesta\obj\Debug\Ejercicio 2 respuesta.pdb
